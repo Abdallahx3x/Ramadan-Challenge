@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Ramadan</string>
+    <string name="prayer">Oh Allah, Grant Health to my body, Oh Allah Grant health to my hearing, Oh Allah, Grant health to my sight.</string>
+    <string name="today_s_prayer">Today\'s prayer</string>
+    <string name="swipe_text">Swipe up to see today\'s prayer</string>
+</resources>
